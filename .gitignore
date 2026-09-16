@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+Bird_data/Processed_data/260730_bird_prop_landuse_ZIP3_final.csv
+
+Bird_data/Raw_data/Final_Table_corrected.csv
+
+Bird_data/Raw_data/Final_Table_corrected.csv
+*.gpkg
