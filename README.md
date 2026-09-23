@@ -1,5 +1,4 @@
-# Project name: Using semi-structured citizen science data to model 
-# the effect of land-use composition on bird occupancy trends in Germany
+# Project name: Using semi-structured citizen science data to model the effect of land-use composition on bird occupancy trends in Germany
 In our study, we analysed spatial and temporal occupancy patterns across 91% of Germany’s terrestrial land 
 at regional resolution, using a 15-year dataset of garden bird populations. By integrating citizen science data 
 with land-use composition, the study analyses how land-use composition differentially impacts biogeographic
