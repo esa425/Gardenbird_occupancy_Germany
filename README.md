@@ -21,7 +21,7 @@ Please note that the main data file (`260730_bird_prop_landuse_ZIP3_final.csv.gz
 # Code
 The R scripts in this repository are licensed under the GNU General Public License v3.0 (GPLv3). You are free to use, modify, and share the code.
 # Data
-The observation data provided in the `/Bird_data` folder are **the property of NABU**. NABU (Naturschutzbund Deutschland e. V.) Bundesverband ‚Stunde der Gartenvögel‘; Data of the years 2006-2021
+The observation data provided in the `/Bird_data` folder are **the property of NABU**. NABU (Naturschutzbund Deutschland e. V.) Bundesverband‚ Stunde der Gartenvögel‘; Data of the years 2006-2021
 - The data were requested for this project and are available in **aggregated form**.
 - They are published with the kind permission of NABU.
 - Further use or commercial exploitation of this data by third parties is not permitted without the explicit consent of NABU.
